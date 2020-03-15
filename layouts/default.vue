@@ -1,5 +1,9 @@
 <template>
   <div>
+    <nuxt-link to="/">首页</nuxt-link>
+    <NLink to="/admin">管理</NLink>
+    <n-link no-prefetch
+            to="/login">登录</n-link>
     <nuxt />
   </div>
 </template>
