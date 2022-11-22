@@ -16,7 +16,7 @@
     "koa": "2.0.0",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^8.0.8",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "node-sass": "^4.13.1",
